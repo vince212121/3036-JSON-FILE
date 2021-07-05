@@ -1,0 +1,167 @@
+[
+  {
+    "ProductId": 0,
+    "PRODUCTNAME": "ASUS ROG Zephyrus G14",
+    "GRAPHICNAME": "Zephyrus.jpg",
+    "COST": 1999.99,
+    "MSRP": 1999.99,
+    "QTYONHAND": 1,
+    "QTYBACKORDER": 5,
+    "DESCRIPTION": "Play on the go with this ASUS ROG Zephyrus G14 14 gaming laptop. Its ultra-thin profile and lightweight design make it easy to carry, while the built-in Wi-Fi 6 provides high-speed internet connection for lag-free online gaming anywhere. It packs an AMD Ryzen 9 5900HS processor and 16GB of RAM to handle graphically rich software, applications, and games.",
+    "BRAND": "Asus"
+  },
+  {
+    "ProductId": 1,
+    "PRODUCTNAME": "ASUS ROG Strix G17",
+    "GRAPHICNAME": "StrixG17.jpg",
+    "COST": 1799.99,
+    "MSRP": 2200.00,
+    "QTYONHAND": 10,
+    "QTYBACKORDER": 10,
+    "DESCRIPTION": "Indulge in your favourite gaming action with the ASUS ROG Strix G17 gaming laptop. Featuring an AMD Ryzen 7 5800H processor, 16GB of DDR4 RAM, and an NVIDIA GeForce RTX 3060 graphics card with 6GB of memory, it packs a powerful punch to run your favorite AAA titles. Its 17.3 Full HD display features a 144Hz refresh rate to present graphic-rich visuals in immersive detail.",
+    "BRAND": "Asus"
+  },
+  {
+    "ProductId": 2,
+    "PRODUCTNAME": "ASUS ROG Strix G15",
+    "GRAPHICNAME": "StrixG15.jpg",
+    "COST": 999.99,
+    "MSRP": 1458.62,
+    "QTYONHAND": 10,
+    "QTYBACKORDER": 10,
+    "DESCRIPTION": "Take control of the battlefield with the ASUS ROG Strix G15 gaming laptop. Its Intel Core i5-10300H processor delivers powerful processing performance while 8GB of RAM helps run graphic-heavy games smoothly. Its also backed by an NVIDIA GeForce GTX 1650 Ti graphics card that renders every frame of the game in vivid detail.",
+    "BRAND": "Asus"
+  },
+  {
+    "ProductId": 3,
+    "PRODUCTNAME": "ASUS TUF Dash 15",
+    "GRAPHICNAME": "Dash15.jpg",
+    "COST": 1599.99,
+    "MSRP": 1877.67,
+    "QTYONHAND": 100,
+    "QTYBACKORDER": 100,
+    "DESCRIPTION": "Powerful and energy efficient, this ASUS TUF Dash F15 gaming laptop is designed with advanced hardware to enhance your gaming experience. It packs an Intel Core i7 quad-core processor and 16GB of DDR4 RAM so you can enjoy your favourite AAA titles to the fullest. Also included is an NVIDIA RTX 3060 graphics card with 6GB of memory so you can play at the highest graphics settings.",
+    "BRAND": "Asus"
+  },
+  {
+    "ProductId": 4,
+    "PRODUCTNAME": "ASUS ROG Flow X13",
+    "GRAPHICNAME": "RogX13.jpg",
+    "COST": 1999.99,
+    "MSRP": 3000.00,
+    "QTYONHAND": 100,
+    "QTYBACKORDER": 52,
+    "DESCRIPTION": "Make gaming your niche hobby with the ASUS ROG Flow X13 2-in-1 gaming laptop. Boasting a sleek design, its backed by an AMD Ryzen 9 processor, 16GB of RAM, and a dedicated NVIDIA GeForce RTX 3050 Ti GPU to deliver extremely powerful performance. The ROG Intelligent cooling system features self-cleaning anti-dust tunnels to maximize heat dissipation.",
+    "BRAND": "Asus"
+  },
+  {
+    "ProductId": 5,
+    "PRODUCTNAME": "Lenovo IdeaPad Gaming 3i",
+    "GRAPHICNAME": "IdeaPad.jpg",
+    "COST": 1254.99,
+    "MSRP": 1429.99,
+    "QTYONHAND": 100,
+    "QTYBACKORDER": 100,
+    "DESCRIPTION": "Lenovo IdeaPad 3i 15.6 FHD IPS Gaming Laptop, Intel Core i7-10750H, NVIDIA GeForce GTX 1650, 8GB Dimm (1 Open Slot), 256GB SSD+1TB HDD",
+    "BRAND": "Lenovo"
+  },
+  {
+    "ProductId": 6,
+    "PRODUCTNAME": "Lenovo Legion 5",
+    "GRAPHICNAME": "Legion5.jpg",
+    "COST": 1259.99,
+    "MSRP": 1459.99,
+    "QTYONHAND": 10,
+    "QTYBACKORDER": 50,
+    "DESCRIPTION": "Own the room and the leaderboard with Legion 5 series gaming laptops. Designed with a plethora of high-performance options, while keeping a low profile with clean, minimalist looks that complement your lifestyle.",
+    "BRAND": "Lenovo"
+  },
+  {
+    "ProductId": 7,
+    "PRODUCTNAME": "Lenovo Y540",
+    "GRAPHICNAME": "Y540.jpg",
+    "COST": 1489.99,
+    "MSRP": 2119.99,
+    "QTYONHAND": 1,
+    "QTYBACKORDER": 100,
+    "DESCRIPTION": "Even casual gamers want to know you’re buying a laptop you want to know that you are getting the most speed for your money, and while all of our Legion PC’s can offer stunning visuals, our top of the line models offer maximum frame rates in competitive & graphically demanding games like APEX Legends.",
+    "BRAND": "Lenovo"
+  },
+  {
+    "ProductId": 8,
+    "PRODUCTNAME": "Lenovo Legion Slim 7",
+    "GRAPHICNAME": "Slim7.jpg",
+    "COST": 1950.49,
+    "MSRP": 1950.49,
+    "QTYONHAND": 100,
+    "QTYBACKORDER": 100,
+    "DESCRIPTION": "Beneath the refined surface of each Legion 7 Series Gaming Laptop lies the processing and graphics power of a beast. Each precision-crafted, high-grade aluminum chassis hides devastation, just waiting for you to unleash it.",
+    "BRAND": "Lenovo"
+  },
+  {
+    "ProductId": 9,
+    "PRODUCTNAME": "Lenovo Thinkpad X1",
+    "GRAPHICNAME": "Thinkpad.jpg",
+    "COST": 1699.99,
+    "MSRP": 2029.50,
+    "QTYONHAND": 20,
+    "QTYBACKORDER": 25,
+    "DESCRIPTION": "Professionals who expect the very best from their technology turn to the ThinkPad X1 line—not just for innovation and style, but for uncompromised performance. From ultralight laptops and 2-in-1s, to extreme power machines, to the world’s first foldable PC, X1s raise the bar. And with ThinkPad in their name, reliability and security are de rigueur.",
+    "BRAND": "Lenovo"
+  },
+  {
+    "ProductId": 10,
+    "PRODUCTNAME": "MSI GS66 Stealth",
+    "GRAPHICNAME": "GS66.jpg",
+    "COST": 2099.99,
+    "MSRP": 2299.99,
+    "QTYONHAND": 10,
+    "QTYBACKORDER": 40,
+    "DESCRIPTION": "Venture into a new era of gaming with the MSI GS66 Stealth gaming laptop. It features an Intel Core i7 hexa-core processor and 16GB of RAM to deliver exceptional performance in gaming, creative tasks, and more. Its 15.6 Full HD display and NVIDIA GeForce RTX 3060 graphics card with 6GB of dedicated memory offer fantastic visuals and smooth gameplay with your favourite titles.",
+    "BRAND": "Msi"
+  },
+  {
+    "ProductId": 11,
+    "PRODUCTNAME": "MSI GP76 Leopard",
+    "GRAPHICNAME": "GP76.jpg",
+    "COST": 2299.99,
+    "MSRP": 2600.00,
+    "QTYONHAND": 10,
+    "QTYBACKORDER": 4,
+    "DESCRIPTION": "Boost your gaming experience with the MSI GP76 Leopard gaming laptop. It features an Intel Core i7-11800H processor and 16GB of RAM to deliver exceptional performance in gaming, daily creative tasks, and more. Its 17.3 IPS Full HD display and NVIDIA GeForce RTX 3070 graphics card with 8GB of dedicated memory offer fantastic visuals and smooth gameplay with your favourite titles.",
+    "BRAND": "Msi"
+  },
+  {
+    "ProductId": 12,
+    "PRODUCTNAME": "MSI GE76 Raider",
+    "GRAPHICNAME": "GE76.jpg",
+    "COST": 2599.99,
+    "MSRP": 2899.99,
+    "QTYONHAND": 12,
+    "QTYBACKORDER": 23,
+    "DESCRIPTION": "Built to impress, the MSI GE76 Raider gaming laptop will certainly delight gaming enthusiasts. It features an Intel Core i7 hexa-core processor and 16GB of RAM to take on the most intensive games and creative applications. Its NVIDIA GeForce RTX 3070 graphics card packs 8GB of dedicated video memory to produce stellar graphics and rich visual detail for every game.",
+    "BRAND": "Msi"
+  },
+  {
+    "ProductId": 13,
+    "PRODUCTNAME": "MSI GF63",
+    "GRAPHICNAME": "GF63.jpg",
+    "COST": 1098.98,
+    "MSRP": 1098.98,
+    "QTYONHAND": 5,
+    "QTYBACKORDER": 2,
+    "DESCRIPTION": "Designed for passionate gamers, this MSI GF63 gaming laptop delivers powerful performance and speed to tackle games with perfection. Powered by an Intel Core i5 processor, 8GB of RAM, and an NVIDIA GeForce GTX 1650 Max Q graphics card, it boasts a 15.6 IPS-level Full HD display for lifelike visuals with vibrant colours that keep you immersed in your gameplay.",
+    "BRAND": "Msi"
+  },
+  {
+    "ProductId": 14,
+    "PRODUCTNAME": "MSI Prestige Ultra Thin 14",
+    "GRAPHICNAME": "Prestige14.jpg",
+    "COST": 1699.00,
+    "MSRP": 1799.00,
+    "QTYONHAND": 50,
+    "QTYBACKORDER": 20,
+    "DESCRIPTION": "MSI taps into the spirit of exploration by designing the greatest laptop collection- Prestige Series. To keep more efficient of the work, these finely-crafted machines not only show unique taste, but also are immensely powerful. Thin and light yet immensely powerful, it enhances your style and workflow wherever you go.",
+    "BRAND": "Msi"
+  }
+]
